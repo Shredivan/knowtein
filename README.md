@@ -1,2 +1,2 @@
 # knowtein
-The website for my graduate project
+The helpful guide to metabolic disorder.

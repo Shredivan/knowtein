@@ -1,2 +1,2 @@
 # knowtein
-The helpful guide to metabolic disorder.
+The helpful guide to your metabolic disorder.
